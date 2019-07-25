@@ -1,0 +1,61 @@
+.listProducts{
+max-width: 700px;
+margin: 20px auto 0;
+padding: 0 20px;
+
+}
+
+.listProducts article{
+
+   background: #fff;
+   border: 1px solid #ddd ;
+   border-radius: 5px;
+   padding: 20px;
+   margin-bottom: 20px
+}
+.listProducts article strong{
+
+color: #2435aa;
+display: block;
+text-align: center
+}
+
+.listProducts article p{
+
+    font-size: 15px;
+    color: #999;
+    margin-top: 5px;
+    line-height: 24px;
+}
+
+.listProducts article a{
+
+  height: 42px;
+  border: 2px solid #da552f;
+  border-radius: 5px;
+  background: none;
+  margin-top: 10px;
+  color: #da552f;
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+
+}
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  border-collapse: collapse;
+}
+.table-dark {
+  color: #fff;
+  background-color: #212529;
+}
+
+table th, .table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+      border-top-color: rgb(222, 226, 230);
+      border-color: #32383e;
+}
