@@ -11,14 +11,17 @@ body{
 
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url('image/fundo2.jpg');
+    background-image: url('image/fundo1.jpg');
     color: black;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 
+    
+
 }
+
 .App{
    
 }
