@@ -1,4 +1,4 @@
-Run in  the project directory
+Run in  the project directory (cd react_teste)
 ###  `npm install` 
 In the project directory, you can run:
 
